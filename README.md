@@ -146,19 +146,16 @@ Example:
 
 ## 📁 Project Structure
 
-student-performance-prediction-cloud-ml/
-
-├── data/
-├── notebooks/
-├── ml/
-├── backend/
+SmartEdu-AI/
+│
 ├── frontend/
-├── cloud/
+├── backend/
+├── ml/
+├── database/
+├── data/
 ├── docs/
-├── requirements.txt
-├── .gitignore
+├── tests/
 └── README.md
-
 ## 🎯 Objective
 
 The main objective of SmartEdu AI is to transform traditional student performance prediction into an intelligent early-intervention system that helps students and teachers take timely actions to improve academic outcomes.
